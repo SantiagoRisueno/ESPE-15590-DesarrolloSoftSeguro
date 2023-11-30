@@ -23,3 +23,13 @@ Content-Type: application/json
 
 ###
 DELETE http://localhost:3000/peliculas/2 HTTP/1.1
+
+###
+POST http://localhost:3000/peliculas HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "Sueños de Livertad",
+    "director": "Frank Darabont",
+    "año": 2023
+}

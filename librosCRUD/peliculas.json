@@ -1,28 +1,35 @@
 {
-    "peliculas": [
-        {
-            "id": 1,
-            "nombre": "Aliens",
-            "director": "James Cameron",
-            "año": 1985
-        },
-        {
-            "id": 3,
-            "titulo": "Intensamente",
-            "director": "Pete Docter",
-            "año": 2015
-        },
-        {
-            "id": 4,
-            "titulo": "Spiderman",
-            "director": "Sam Raimi",
-            "año": 2002
-        },
-        {
-            "id": 5,
-            "titulo": "Soldado Universal",
-            "director": "Roland Emmerich",
-            "año": 2028
-        }
-    ]
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "Aliens",
+      "director": "James Cameron",
+      "año": 1985
+    },
+    {
+      "id": 3,
+      "titulo": "Intensamente",
+      "director": "Pete Docter",
+      "año": 2015
+    },
+    {
+      "id": 4,
+      "titulo": "Spiderman",
+      "director": "Sam Raimi",
+      "año": 2002
+    },
+    {
+      "id": 5,
+      "titulo": "Soldado Universal",
+      "director": "Roland Emmerich",
+      "año": 2028
+    },
+    {
+      "id": 6,
+      "titulo": "555604b5accdc436b1c326da1fecbeab274b05887841d7576b7f8f70eddc16dc",
+      "director": "Frank Darabont",
+      "año": 2023,
+      "iv": "5b04ebd31e805091d9505e945a928f5c"
+    }
+  ]
 }
