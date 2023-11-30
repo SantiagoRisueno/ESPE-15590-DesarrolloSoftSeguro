@@ -1,0 +1,28 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "nombre": "Aliens",
+            "director": "James Cameron",
+            "año": 1985
+        },
+        {
+            "id": 3,
+            "titulo": "Intensamente",
+            "director": "Pete Docter",
+            "año": 2015
+        },
+        {
+            "id": 4,
+            "titulo": "Spiderman",
+            "director": "Sam Raimi",
+            "año": 2002
+        },
+        {
+            "id": 5,
+            "titulo": "Soldado Universal",
+            "director": "Roland Emmerich",
+            "año": 2028
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+GET http://localhost:3000/peliculas HTTP/1.1
+
+###
+GET http://localhost:3000/peliculas/2 HTTP/1.1
+
+###
+POST http://localhost:3000/peliculas HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "Soldado Universal",
+    "director": "Roland Emmerich",
+    "año": 2020
+}
+
+###
+PUT http://localhost:3000/peliculas/5 HTTP/1.1
+Content-Type: application/json
+
+{
+    "año": 2028    
+}
+
+###
+DELETE http://localhost:3000/peliculas/2 HTTP/1.1
